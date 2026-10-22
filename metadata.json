@@ -1,0 +1,6 @@
+{
+  "name": "Voice Screen Lock",
+  "description": "Smart voice-activated screen lock app featuring custom speech password, backup PIN security, stylish dynamic themes, real-time voice visualizer, and unlock alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
